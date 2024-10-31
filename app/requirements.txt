@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+SQLAlchemy
+pandas
+scikit-learn
+prophet
+APScheduler
